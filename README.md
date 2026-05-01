@@ -14,7 +14,7 @@
 ## 安装
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. [点击安装脚本](https://raw.githubusercontent.com/wfles/douban-wish-yuhang/main/douban-wish-yuhang.user.js)
+2. [点击安装脚本](https://raw.githubusercontent.com/haoo/douban-wish-yuhang/main/douban-wish-yuhang.user.js)
 3. 打开你的豆瓣「想读」页面，点击「开始查询」
 
 ## 使用
